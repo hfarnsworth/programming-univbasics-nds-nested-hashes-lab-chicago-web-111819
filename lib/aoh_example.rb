@@ -19,11 +19,13 @@ def literal_aoh
 
 newArray = []
 
-newArray << DON_G
-newArray << JOELLE_VD
-newArray << PAT_M
-newArray << KATE_G_G
-newArray << BRUGE_G
+newArray = [
+  DON_G,
+  JOELLE_VD,
+  PAT_M,
+  KATE_G,
+  BRUCE_G
+  ]
 
 newArray
 end
